@@ -5,7 +5,7 @@ if weather == "sunny":
     print("wear a t-shirt and sun glasses")
 elif weather == "rainy":
     print ("dont forget your umbrealla and rain coat")
-elif weather == "cold":    
+elif weather =="cold":    
     print ("Make sure to wear a warm coat and a scarf")   
 else :
-    primt("sorry, i dont have recommendations for this weather")     
+    print("sorry, i dont have recommendations for this weather")     
